@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1aa6af34-b961-4bed-bdb8-35b57275b146" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ScannerDemo.java" afterDir="false" />
+    <list default="true" id="1aa6af34-b961-4bed-bdb8-35b57275b146" name="Changes" comment="A3.1 Ein-und Ausgabe">
+      <change afterPath="$PROJECT_DIR$/src/kreis.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669123426352</updated>
     </task>
+    <task id="LOCAL-00001" summary="A3.1 Ein-und Ausgabe">
+      <created>1669126768372</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669126768372</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -62,5 +70,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="A3.1 Ein-und Ausgabe" />
+    <option name="LAST_COMMIT_MESSAGE" value="A3.1 Ein-und Ausgabe" />
   </component>
 </project>
