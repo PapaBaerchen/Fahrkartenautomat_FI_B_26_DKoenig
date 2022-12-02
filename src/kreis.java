@@ -4,7 +4,8 @@ public class kreis
     {
 
         String s = "*";
-        System.out.printf( "%4s%-4s\n", s, s );
+        System.out.printf( "%3s%-3s\n", s, s );
+        System.out.printf( "%1s%8s\n", s, s );
 
 
 
